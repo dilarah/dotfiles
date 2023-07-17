@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dilaradincer@gmail.com
+	name = Dilara Haciali
